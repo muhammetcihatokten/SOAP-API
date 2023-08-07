@@ -1,0 +1,623 @@
+C:\Users\tutku\Desktop\C#\HALL\bin\Debug\HALL.exe.config
+C:\Users\tutku\Desktop\C#\HALL\bin\Debug\HALL.exe
+C:\Users\tutku\Desktop\C#\HALL\bin\Debug\HALL.pdb
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.exe
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.pdb
+C:\Users\tutku\Desktop\C#\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tutku\Desktop\C#\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\tutku\Desktop\C#\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.exe
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.pdb
+C:\Users\tutku\Desktop\APİ\C#\HALL\bin\Debug\HALL.exe.config
+C:\Users\tutku\Desktop\APİ\C#\HALL\bin\Debug\HALL.exe
+C:\Users\tutku\Desktop\APİ\C#\HALL\bin\Debug\HALL.pdb
+C:\Users\tutku\Desktop\APİ\C#\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tutku\Desktop\APİ\C#\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\tutku\Desktop\APİ\C#\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Downloads\HALL (1)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Downloads\HALL (1)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Downloads\HALL (1)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Downloads\HALL (1)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Downloads\HALL (1)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL 22.12 Saat 14.51\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.14\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.21\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL 22.12 Saat 16.52\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.16\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 11.31\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL        Tarih 23.12 Saat 12.18\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL        Tarih 23.12 Saat 20.07\HALL        Tarih 23.12\HALL 22.12 Saat 16.52\HALL 22.12 Saat 14.51\HALL 22.12\HALL (Aktif)\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\24.14 - 15.23\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.DetayliSiparisListeleme.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\26.12-03.48\26.12-03.48\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\26.12- 14.00\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisOnay.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisOnay.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\28.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.SiparisOnay.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\29.12\29.12\28.12\26.12- 14.00\26.12-03.48\HALL\HALL\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\HALL(29.12)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Moduller.SiparisDetayListele.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Moduller.SiparisOnay.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\HALL(29.12)\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\RestSharp.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Buffers.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Memory.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Json.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.ValueTuple.dll
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\RestSharp.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Buffers.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Memory.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Json.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\K H A L\Desktop\Eski Sürümler\HALL(02.01)\HALL(02.01)\bin\Debug\System.ValueTuple.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\RestSharp.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Buffers.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Memory.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Json.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.ValueTuple.dll
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\RestSharp.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Buffers.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Memory.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Text.Json.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\bin\Debug\System.ValueTuple.xml
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\HALL(02.01)\HALL(02.01)\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\RestSharp.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Buffers.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Memory.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Text.Json.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.ValueTuple.dll
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\RestSharp.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Buffers.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Memory.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Text.Json.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\bin\Debug\System.ValueTuple.xml
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\30 Ocak\N11\obj\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\HALL.exe.config
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\HALL.pdb
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\EntityFramework.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\RestSharp.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Buffers.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Memory.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Text.Json.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.ValueTuple.dll
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\EntityFramework.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\RestSharp.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Buffers.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Memory.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Text.Json.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\bin\Debug\System.ValueTuple.xml
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.exe
+C:\Users\K H A L\Desktop\N11\3 Şubat\N11\obj\Debug\HALL.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\HALL.exe.config
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\HALL.exe
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\HALL.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\EntityFramework.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\RestSharp.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Buffers.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Memory.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Text.Json.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.ValueTuple.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\EntityFramework.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\RestSharp.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Buffers.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Memory.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Text.Json.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\bin\Debug\System.ValueTuple.xml
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.csproj.AssemblyReference.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.AnaSayfa.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.KargolarıListele.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.KategorileriListele.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.SiparisListeleme.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.Moduller.UrunListele.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.Properties.Resources.resources
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.csproj.GenerateResource.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.csproj.CoreCompileInputs.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.csproj.CopyComplete
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.exe
+C:\Users\mhmmt\OneDrive\Masaüstü\N11\N11\3 Şubat\N11\obj\Debug\HALL.pdb
